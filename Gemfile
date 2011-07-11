@@ -11,7 +11,7 @@ gem 'sqlite3'
 gem 'sass'
 gem 'coffee-script'
 gem 'uglifier'
-
+gem 'whenever', :require => false
 gem 'will_paginate', :git => "https://github.com/p7r/will_paginate.git", :branch => "rails3"
 gem 'jquery-rails'
 
